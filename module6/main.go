@@ -1,3 +1,7 @@
+/*
+Test comment
+*/
+
 package module6
 
 import "fmt"
